@@ -1,0 +1,6 @@
+@OtpReceiverApi_HostAddress = http://localhost:5139
+
+GET {{OtpReceiverApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
